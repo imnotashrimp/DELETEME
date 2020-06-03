@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/imnotashrimp/DELETEME/issues"
   },
-  "homepage": "https://github.com/imnotashrimp/DELETEME#readme"
+  "homepage": "https://github.com/imnotashrimp/DELETEME#readme",
+  "devDependencies": {
+    "git-hooks": "^1.1.10"
+  }
 }
